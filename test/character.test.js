@@ -1,4 +1,4 @@
-import Character from '../src/js/script';
+import Character from '../src/js/character';
 
 test('test for Swordsman', () => {
   const received = new Character('Мечник', 'Swordsman');
